@@ -449,6 +449,10 @@ nav.show div.icon-close {
   margin-bottom: 2rem;
 }
 
+#contact .text h2 {
+  margin-bottom: 1rem;
+}
+
 #contact .button i,
 #contact ul li i {
   font-size: 1.5rem;
